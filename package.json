@@ -1,0 +1,12 @@
+{
+  "name": "REST-API",
+  "description": "Demo REST API with Node",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "babel": "^6.5.2",
+    "express": "3.x",
+    "jquery": "^2.2.3",
+    "underscore": "^1.8.3"
+  }
+}
